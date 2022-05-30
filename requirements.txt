@@ -1,0 +1,6 @@
+rhino3dm == 7.15.0
+networkx == 2.8
+flask == 2.1.1
+ghhops_server == 1.5.2
+matplotlib == 3.5.1
+scipy == 1.8.0
